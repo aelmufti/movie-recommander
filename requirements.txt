@@ -2,3 +2,13 @@ fastapi
 uvicorn
 requests
 pydantic
+fastmcp
+httpx
+langchain-ollama
+loguru
+mcp-use
+mcp[cli]
+pandas
+lancedb
+ollama
+numpy
